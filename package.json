@@ -19,7 +19,7 @@
     "https": "^1.0.0",
     "request": "^2.88.0",
     "moment": "~2.20.1",
-    "moment-timezone": "~0.5.14",
+    "moment-timezone": "~0.5.35",
     "mosca": "^2.8.3",
     "mqtt": "^2.18.8",
     "mqtt-ws": "^0.2.0",
